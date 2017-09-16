@@ -7,7 +7,7 @@ description: "Goals determine what you are going to be."
 keyword: "Hao, Hao Blog, 浩的博客, xionghao, 熊浩, Java, Js, Mysql"
 url: "http://376453716.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/376453716/376453716.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
