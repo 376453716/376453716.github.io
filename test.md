@@ -1,0 +1,66 @@
+
+Jekyll 介绍
+> 文本转换引擎，生成静态页面
+
+
+### 工具安装
+
+环境要求：
+- Ruby
+- RubyGems
+- Linux, Unix, or Mac OS X
+
+
+```
+# Installing ruby
+sudo yum install ruby
+ruby -v
+
+# Installing RVM - Ruby Version Manager
+gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+
+# Install RVM stable with ruby:
+\curl -sSL https://get.rvm.io | bash -s stable --ruby
+
+# 设置默认Ruby版本
+rvm use 2.4.1 --default
+
+
+# 安装RubyGems:a package management framework for Ruby.
+wget https://rubygems.org/rubygems/rubygems-2.6.13.tgz
+tar -zxvf rubygems-2.6.13.tgz
+cd rubygems-2.6.13
+ruby setup.rb
+
+#通过RubyGems 安装 Jekyll
+gem install jekyll
+
+```
+
+### 基本用法
+
+```
+jekyll build  --watch [--source <source>] [--destination <destination>]
+
+
+# 和`jekyll serve`相同，但是会查看变更并且自动再生成。
+jekyll serve --watch
+
+```
+
+
+
+配置文件
+_config.yml
+```
+source:      _source
+destination: _deploy
+```
+build
+```
+### jekyll build 自动加载配置文件
+# --source _source --destination _deploy
+jekyll build
+
+```
+
