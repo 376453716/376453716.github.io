@@ -8,7 +8,7 @@
 2.服务提供者
 3.服务消费者
 
-![Eureka architecture](https://376453716.github.io/img/spring-cloud/Eureka.png)
+![Eureka architecture](img/spring-cloud/Eureka.png)
 
 ### 服务治理机制
 
