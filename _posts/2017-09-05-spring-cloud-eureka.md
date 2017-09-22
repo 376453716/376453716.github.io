@@ -6,7 +6,9 @@ date:       2017-09-05
 author:     Hao
 catalog: true
 tags:
-    - spring,eureka
+    - spring
+    - spring cloud
+    - eureka
 ---
 # eureka
 
