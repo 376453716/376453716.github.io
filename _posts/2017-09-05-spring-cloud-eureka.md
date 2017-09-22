@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      eureka
+subtitle:   Spring Cloud Eureka
+date:       2017-09-05
+author:     Hao
+catalog: true
+tags:
+    - spring,eureka
+---
 # eureka
 
 服务治理，通过服务注册与服务发现来完成对微服务应用实例的自动化管理
