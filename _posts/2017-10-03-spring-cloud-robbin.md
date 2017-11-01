@@ -4,7 +4,7 @@ title:      spring-cloud(2)
 subtitle:   spring cloud robbin
 date:       2017-10-03
 author:     Hao
-# header-img: img/spring-cloud/spring-cloud-robbin.jpg
+# header-img: img/spring-cloud/spring-cloud-robbin.png
 catalog: true
 tags:
     - spring
