@@ -56,4 +56,7 @@ springSecurityFilterChain
 
 #### cas
 ![spring_security_cas](img/spring_security/cas.png)
-![spring_security_cas](img/spring_security/spring_security.png)
+
+![spring_security](img/spring_security/spring_security.png)
+
+![spring_security_config](img/spring_security/spring_security_config.png)
