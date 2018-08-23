@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      Kafka quick start
+subtitle:   zk
+date:       2017-12-07
+author:     Hao
+catalog: true
+tags:
+    - kafka
+---
 #### 配置
 ```
 > tar -xzf kafka_2.11-1.1.0.tgz
