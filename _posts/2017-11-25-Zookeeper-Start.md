@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Zookeeper Start
-subtitle:   zk
+subtitle:   
 date:       2017-11-25
 author:     Hao
 catalog: true

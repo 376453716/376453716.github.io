@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Kafka quick start
-subtitle:   zk
+subtitle:   
 date:       2017-12-07
 author:     Hao
 catalog: true
