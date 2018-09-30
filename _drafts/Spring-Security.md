@@ -60,3 +60,8 @@ springSecurityFilterChain
 ![spring_security](img/spring_security/spring_security.png)
 
 ![spring_security_config](img/spring_security/spring_security_config.png)
+
+
+#### concept
+- Authentication: token for 身份验证请求/经过身份验证的主体，请求被认证后，存储在SecurityContext线程变量中，由SecurityContextHolder管理，
+- UsernamePasswordAuthenticationToken extends AbstractAuthenticationToken： principal 用户名 credentials 密码
