@@ -2,7 +2,7 @@
 layout:     post
 title:      Zookeeper Start
 subtitle:   
-date:       2017-11-25
+date:       2016-11-25
 author:     Hao
 catalog: true
 tags:
@@ -15,7 +15,7 @@ docker pull zookeeper
 # run
 docker run --name zookeeper_2181 -d zookeeper:latest
 docker run  -d --name zookeeper_2181 -p 2181:2181 zookeeper
-# log 
+# log
 docker logs -f zookeeper_2181
 ```
 
